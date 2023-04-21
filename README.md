@@ -4,9 +4,9 @@ This project is related a Marketing agency that wants to improve their website m
 
 
 ## Contents
-1. [Deployed-page] (#deployed-page)
-2. [Refactor-Comments] (#refactor-comments)
-3. [Contributions] (#Contributions)
+1. [Deployed-page](#deployed-page)
+2. [Refactor-Comments](#refactor-comments)
+3. [Contributions](#Contributions)
 
 ## Deployed Page
 
